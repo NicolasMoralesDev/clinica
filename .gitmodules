@@ -1,3 +1,6 @@
 [submodule "clinica_backend"]
 	path = clinica_backend
 	url = https://github.com/NicolasMoralesDev/clinica_backend.git
+[submodule "clinica_frontend"]
+	path = clinica_frontend
+	url = https://github.com/NicolasMoralesDev/clinica_frontend.git
